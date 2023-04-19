@@ -1,6 +1,6 @@
 # Documentation
-- [Super App - Architecture, Security, and Cutting-Edge Technologies](#super-app-architecture-security-and-cutting-edge-technologies)
-- [The Ledger System in Super App - Secure and Scalable Financial Management](#the-ledger-system-in-super-app-secure-and-scalable-financial-management)
+- [Super App - Architecture, Security, and Cutting-Edge Technologies](#user-content-super-app---architecture-security-and-cutting-edge-technologies)
+- [The Ledger System in Super App - Secure and Scalable Financial Management](#user-content-the-ledger-system-in-super-app---secure-and-scalable-financial-management-ledger)
 
 # Super App - Architecture, Security, and Cutting-Edge Technologies
 
