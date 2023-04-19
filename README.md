@@ -52,7 +52,7 @@ The Super App offers a robust and scalable architecture, with a focus on securit
 
 ___
 
-# The Ledger System in Super App - Secure and Scalable Financial Management {#ledger}
+# The Ledger System in Super App - Secure and Scalable Financial Management
 
 ## Introduction
 
